@@ -1,0 +1,262 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: century;
+}
+
+.header{
+    background-image: url(fond\ muraille\ de\ chine.jpg) ;
+    
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-attachment: fixed;
+    height: 170vh;
+    
+}
+
+.colo{
+    color: white;
+}
+
+
+.ABC{
+    margin-left: 54%;
+    margin-top: 3%;
+    width: fit-content;
+    padding: 8px 40px;
+    font-weight: bold;
+    background-color:red;
+    border: #f6d238;
+    color: black;
+    cursor: pointer;
+    transition: 0.5s;
+ }
+
+.ABC:hover{
+   letter-spacing: 1px;
+   background-color: #f1f1f1;
+   color: #111;
+   font-weight: bold;
+   box-shadow: 0 0 10px #f6d238;
+
+}
+
+.ABD{
+   margin-left: 34%;
+   margin-top: -3%;
+   width: fit-content;
+   padding: 8px 40px;
+   font-weight: bold;
+   background-color:green;
+   border: #f6d238;
+   color: black;
+   cursor: pointer;
+   transition: 0.5s;
+
+}
+
+.ABD:hover{
+   letter-spacing: 1px;
+   background-color: #f1f1f1;
+   color: #111;
+   font-weight: bold;
+   box-shadow: 0 0 10px #f6d238;
+
+}
+
+
+.retour{
+   margin-left: 2%;
+    margin-top: -78%;
+    width: fit-content;
+    padding: 8px 40px;
+    font-weight: bold;
+    background-color:red;
+    border: #f6d238;
+    color: black;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+.retour:hover{
+   letter-spacing: 1px;
+   background-color: #f1f1f1;
+   color: #111;
+   font-weight: bold;
+   box-shadow: 0 0 10px #f6d238;
+
+
+}
+
+
+
+ 
+ .Corail{
+    background-image: url(fond\ corail.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 170vh;
+
+ }
+
+ .stron{
+    background-image: url(fond\ stonehenge.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 170vh;
+
+ }
+ .dind{
+    background-image: url(fond\ dindefelo.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 170vh;
+
+ }
+
+ .parc{
+    background-image: url(fond\ parc.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 190vh;
+
+ }
+
+ .retourston{
+
+   margin-left: 2%;
+   margin-top: -71%;
+   width: fit-content;
+   padding: 8px 40px;
+   font-weight: bold;
+   background-color:red;
+   border: #f6d238;
+   color: black;
+   cursor: pointer;
+   transition: 0.5s;
+
+ }
+
+ .retourston:hover{
+   letter-spacing: 1px;
+   background-color: #f1f1f1;
+   color: #111;
+   font-weight: bold;
+   box-shadow: 0 0 10px #f6d238;
+
+
+
+ }
+
+ .retourdind{
+   margin-left: 2%;
+   margin-top: -74%;
+   width: fit-content;
+   padding: 8px 40px;
+   font-weight: bold;
+   background-color:red;
+   border: #f6d238;
+   color: black;
+   cursor: pointer;
+   transition: 0.5s;
+ }
+
+ .retourdind:hover{
+   letter-spacing: 1px;
+   background-color: #f1f1f1;
+   color: #111;
+   font-weight: bold;
+   box-shadow: 0 0 10px #f6d238;
+
+ }
+
+ .retourmur{
+   margin-left: 2%;
+   margin-top: -62%;
+   width: fit-content;
+   padding: 8px 40px;
+   font-weight: bold;
+   background-color:red;
+   border: #f6d238;
+   color: black;
+   cursor: pointer;
+   transition: 0.5s;
+
+ }
+
+ .retourmur:hover{
+   letter-spacing: 1px;
+   background-color: #f1f1f1;
+   color: #111;
+   font-weight: bold;
+   box-shadow: 0 0 10px #f6d238;
+
+
+ }
+
+ .retourcorail{
+   margin-left: 2%;
+   margin-top: -72%;
+   width: fit-content;
+   padding: 8px 40px;
+   font-weight: bold;
+   background-color:red;
+   border: #f6d238;
+   color: black;
+   cursor: pointer;
+   transition: 0.5s;
+
+
+ }
+
+ .retourcorail:hover{
+   letter-spacing: 1px;
+   background-color: #f1f1f1;
+   color: #111;
+   font-weight: bold;
+   box-shadow: 0 0 10px #f6d238;
+
+ }
+
+ footer {
+   background-color: #ca5621;
+   color: white;
+   padding: 20px;
+   text-align: center;
+   margin-top: 85%;
+}
+
+.footer-links {
+   margin: 10px 0;
+}
+
+
+
+.language-selector {
+   margin-top: 10px;
+}
+
+.Bcontact{
+   margin-right: 70%;
+   margin-top: -1%;
+}
+
+.Bgmail{
+   margin-right: 25%;
+   margin-top: -5%;
+}
+
+.Bsecurite{
+   margin-left: 25%;
+   margin-top: -4.5%;
+}
+.Badresse{
+   margin-left: 73%;
+   margin-top: -4%;
+}

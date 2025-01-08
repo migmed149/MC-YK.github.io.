@@ -1,0 +1,149 @@
+
+.titre{color: white;
+    margin-left: 500px;
+}
+
+.intérieur{
+    background-color: white;
+    width: 500px;
+    padding-left:50px;
+    height: 350px;
+    padding-top: 50px;
+    background-image: url(fond\ chine\ .jpg);
+    background-size: cover;
+    box: shadow 90px;
+    border-radius: 10px; 
+    padding: left 90px; 
+    color:white;
+    gap: 600px;
+    margin-left: 32%;
+    background-position: center;
+    
+    
+}
+.australie{
+    background-color: white;
+    width: 500px;
+    padding-left:50px;
+    height: 350px;
+    padding-top: 50px;
+    background-image: url(fond\ australie.jpg);
+    background-size: cover;
+    box: shadow 90px;
+    border-radius: 10px; 
+    padding: left 90px; 
+    color: white;
+    gap: 600px;
+    margin-left: 32%;
+    background-position: center;
+    
+}
+.royaume-uni{
+    background-color: black;
+    width: 500px;
+    padding-left:50px;
+    height: 350px;
+    padding-top: 50px;
+    background-image: url(2\ ROYAUME.jpg);
+    background-size: cover;
+    box: shadow 90px;
+    border-radius: 10px; 
+    padding: left 90px; 
+    color:white
+    gap: 600px;
+    margin-left: 32%;
+    background-position: center;
+    
+}
+.senegal{
+    background-color: white;
+    width: 500px;
+    padding-left:50px;
+    height: 350px;
+    padding-top: 50px;
+    background-image: url(fond\ senegal.jpg);
+    background-size: cover;
+    box: shadow 90px;
+    border-radius: 10px; 
+    padding: left 90px; 
+    color: white;
+    gap: 600px;
+    margin-left: 32%;
+    background-position: center;
+    
+}
+.Afrique{
+    background-color: white;
+    width: 500px;
+    padding-left:50px;
+    height: 350px;
+    padding-top: 50px;
+    background-image: url(fond\ afrique\ du\ sud.jpg);
+    background-size: cover;
+    box: shadow 90px;
+    border-radius: 10px; 
+    padding: left 90px; 
+    color: white;
+    gap: 600px;
+    margin-left: 32%;
+    background-position: center;
+}
+
+
+.dégat{
+    border-radius:10px ;
+    margin-right: 100%;
+}
+.couleur{
+    color: white;
+    margin: 0;
+    padding:0;}
+    
+.none{
+    color: bisque;
+}
+
+header{
+    background-image: url(Last\ image.jpg);
+    height: 386vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+footer {
+    background-color: #ca5621;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.footer-links {
+    margin: 10px 0;
+}
+
+
+
+.language-selector {
+    margin-top: 10px;
+}
+
+.Bcontact{
+    margin-right: 70%;
+    margin-top: -1%;
+}
+
+.Bgmail{
+    margin-right: 25%;
+    margin-top: -5%;
+}
+
+.Bsecurite{
+    margin-left: 25%;
+    margin-top: -4.5%;
+}
+.Badresse{
+    margin-left: 73%;
+    margin-top: -4%;
+}

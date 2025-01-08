@@ -1,0 +1,169 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: century;
+}
+
+header{
+    background-image: url(Last\ image.jpg);
+    height: 145vh;
+    background-size: cover;
+    background-position: center;
+}
+.logo a{
+    color: white;
+    padding: 0px 20px;
+    border: 1px solid #fff;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 900;
+    text-shadow: rgba(0, 0, 0, 0.7);
+}
+
+.logo span{
+color: rgb(238, 56, 11);
+font-weight: bold;
+font-size: 2rem;
+}
+
+ul{
+    list-style: none;
+    float: right;
+    display: flex;
+    margin-top: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    margin: 10px;
+    font-weight: 500;
+    transition: 0.7s ease;
+}
+
+ul li a:hover{
+    background: #fff;
+    color: #000;
+}
+
+ul li.active a{
+    background: #fff;
+    color: #000;
+}
+
+
+
+/* Contact CSS */
+#contact {
+    padding: 0 10%;
+    margin-bottom: 50px;
+    height: 90vh;
+    margin-left: 10%;
+    margin-right: 10%;
+   
+}
+#contact .title{
+    color: #ad8d5c;
+}
+#contact form {
+    background-color: #ebd372;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+    margin-top: 70px;
+
+}
+.left-right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  
+}
+.left-right .left , .left-right .right {
+    display: flex;
+    flex-direction: column;
+    width: 49%;
+}
+#contact form label {
+    font-size: 14px;
+    padding: 10px 0;
+    font-weight: 600;
+}
+#contact form input {
+    padding: 8px;
+    outline: 0;
+    border: 1px solid #111;
+}
+textarea {
+    height: 150px;
+    resize: none;
+    outline: 0;
+    width: 100%;
+    padding: 10px;
+}
+
+#contact button {
+    width: fit-content;
+    padding: 8px 40px;
+    font-weight: bold;
+    background-color:rgb(57, 57, 211);
+    border: #f6d238;
+    color: #111;
+    cursor: pointer;
+    transition: 0.5s;
+}
+#contact button:hover {
+    letter-spacing: 1px;
+    background-color: #f1f1f1;
+    color: #111;
+    font-weight: bold;
+    box-shadow: 0 0 10px #f6d238;
+
+}
+
+
+footer {
+    background-color: #ca5621;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 17%;
+}
+
+.footer-links {
+    margin: 10px 0;
+}
+
+
+
+.language-selector {
+    margin-top: 10px;
+}
+
+.Bcontact{
+    margin-right: 70%;
+    margin-top: -1%;
+}
+
+.Bgmail{
+    margin-right: 25%;
+    margin-top: -5%;
+}
+
+.Bsecurite{
+    margin-left: 25%;
+    margin-top: -4.5%;
+}
+.Badresse{
+    margin-left: 73%;
+    margin-top: -4%;
+}

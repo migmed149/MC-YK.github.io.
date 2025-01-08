@@ -1,0 +1,159 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: century;
+}
+.logo a{
+    color: white;
+    padding: 0px 20px;
+    border: 1px solid #fff;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 900;
+    text-shadow: rgba(0, 0, 0, 0.7);
+}
+
+.logo span{
+color: rgb(238, 56, 11);
+font-weight: bold;
+font-size: 2rem;
+}
+
+ul{
+    list-style: none;
+    float: right;
+    display: flex;
+    margin-top: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    margin: 10px;
+    font-weight: 500;
+    transition: 0.7s ease;
+}
+
+ul li a:hover{
+    background: #fff;
+    color: #000;
+}
+
+ul li.active a{
+    background: #fff;
+    color: #000;
+}
+
+.principale{
+    max-width: 114rem;
+    margin: 0 auto;
+}
+
+.tit{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.tit{
+    color: white;
+    font-size: 30px;
+}
+
+.bonton{
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);   
+}
+
+.bonton a{
+    color: white;
+    text-decoration: none;
+    border: 1px solide white;
+    padding: 10px 20px;
+}
+
+.btn{
+    transition: 00.6s ease;
+}
+
+.btn:hover{
+    background-color:white;
+    color: black;
+}
+
+
+  
+
+.change{
+    color: white;
+}
+.contenu{
+    flex-direction: column;
+    margin-right: 30%;
+    
+}
+.fondimg{
+    
+    border-radius: 0.5rem
+
+}
+
+.fondimg:hover{
+    transform: scale(1.1);
+
+}
+
+.ABC{
+   margin-left: 35%;
+   margin-top: -2%;
+   width: fit-content;
+   padding: 8px 40px;
+   font-weight: bold;
+   background-color:rgb(223, 181, 28);
+   border: #f6d238;
+   color: black;
+   cursor: pointer;
+   transition: 0.5s;
+}
+
+.description{
+    transform: translateY(0px);
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    transition: 0.5s;
+    width: 510px;
+    
+    
+}
+.description h1{
+    font-size: 20px;
+    margin-bottom: 10px;
+
+
+
+}
+.description p{
+    font-size: 14px;
+    color: black;
+    
+
+
+}
+
+.trans:hover .description{
+    transform: translateY(-120px);
+}
+
+
+
+
